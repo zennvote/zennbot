@@ -1,0 +1,3 @@
+[submodule "zennbot-server"]
+	path = zennbot-server
+	url = https://github.com/zennvote/zennbot-server
